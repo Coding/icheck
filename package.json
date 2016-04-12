@@ -1,0 +1,21 @@
+{
+  "name": "icheck",
+  "version": "1.0.3",
+  "description": "Highly customizable checkboxes and radio buttons for jQuery and Zepto.",
+  "main": "./icheck.js",
+  "scripts": {
+   
+  },
+  "repository": {
+    "type": "https",
+    "url": "https://github.com/Coding/icheck"
+  },
+  "author": "http://fronteed.com/iCheck ",
+  "license": "MIT",
+  "dependencies": {
+   
+  },
+  "devDependencies": {
+   
+  }
+}
