@@ -21,7 +21,7 @@
         );
     } else {
         // Browser globals:
-        if (!(typeof jQuery === 'undefined' || typeof window.jQuery === 'undefined') {
+        if (!(typeof jQuery === 'undefined' || typeof window.jQuery === 'undefined')) {
              factory(window.jQuery || jQuery);     
         }
     }
